@@ -1,0 +1,30 @@
+#Listar{
+    background-color:#9ED9ED;
+    width: 500px;
+}
+p, h1,a{
+    font-family: arial;
+}
+#home{
+    position: relative;
+    float: left;
+    margin-left: 50px;
+}
+#Image{
+    border-radius: 200px;
+    width: 170px;
+    height: 170px;
+}
+.Like:hover{
+    background-color: cadetblue;
+}
+button{
+    background-color: white;
+    weight: 100px;
+    height: 30px;
+    border-radius: 10px;
+}
+a{
+    color:black;
+}
+
